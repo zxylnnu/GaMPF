@@ -1,6 +1,10 @@
 # GaMPF
 Code for paper 'GaMPF: A Full-Scale Gated Message Passing Framework Based on Collaborative Estimation for VHR Remote Sensing Image Change Detection'
 
+## Preparation
+1. New a folder called checkpoint
+2. New a folder called result
+
 ## Train
 1. Use following command for training
 
